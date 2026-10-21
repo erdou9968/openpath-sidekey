@@ -23,7 +23,7 @@ AI 给的路径偶尔有小毛病：`-` 写成 `–`、末尾多个句号、长�
 
 **推荐：下载 exe，双击即用，什么都不用装。**
 
-1. 打开 [Releases](https://github.com/erdou9968/openpath-sidekey/releases)，在最新版本的 Assets 里下载 `openpath_进阶版.exe` 或 `openpath_普通版.exe`（**只运行其中一个**）。
+1. 打开 [Releases](https://github.com/erdou9968/openpath-sidekey/releases)，在最新版本的 Assets 里下载 `openpath-advanced.exe`（进阶版）或 `openpath-basic.exe`（普通版）（**只运行其中一个**）。
 2. 双击运行，弹出“已启动”提示框就成功了。之后开机自动运行（开机时不弹框）。
 3. 第一次运行如果出现“Windows 已保护你的电脑”：exe 没有数字签名，点“更多信息”→“仍要运行”。
 4. 可选：装 [QuickLook](https://github.com/QL-Win/QuickLook)（进阶版预览用）、[Everything](https://www.voidtools.com/)（路径写错时搜索用）。
